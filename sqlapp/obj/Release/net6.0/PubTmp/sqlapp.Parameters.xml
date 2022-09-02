@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="azwebapp1000" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Amruta\\Downloads\\Azure-AZ-204\\Resources\\Chapter\ 3-Resources\ AZ\ Web\ APP\\Building\ an\ Application\ that\ connects\ to\ the\ SQL\ database\\sqlapp\\sqlapp\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
